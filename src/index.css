@@ -7,6 +7,6 @@ body{
     background-image:url('./assets/read.jpg');
     background-attachment: fixed;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
